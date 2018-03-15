@@ -4,3 +4,5 @@ cambio Alejandra2
 
 ## Colaboradores
 * Rocci Escobar Nuñez
+* Marina Rodriguez
+
